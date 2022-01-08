@@ -1,0 +1,38 @@
+.head
+{
+    text-align: center;
+    padding-top: 100px;
+    background-color:#a05b36 ;
+    height: 150px;
+}
+.body
+{
+    background-color: rgb(210, 162, 97);
+    height: 300px;
+}
+.title
+{
+    text-align: center;
+    color: green;
+    padding-top: 20px;
+       
+}
+a
+{
+    color: green;
+    text-decoration: none;
+    padding-left: 30px;
+    
+}
+.paragraph
+{
+    color: rgb(140, 46, 30);
+}
+h2
+{
+    font-weight: bold;
+}
+p
+{
+    font-size: 15px;
+}
